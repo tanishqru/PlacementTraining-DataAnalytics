@@ -13,12 +13,12 @@ This repository documents my Placement Training journey focused on Data Analytic
 
 ## Contents
 
-- [13October2025.ipynb](/PlacementTraining-DataAnalytics/13October2025.ipynb)
+- [13October2025.ipynb](13October2025.ipynb)
     - [Learning material 1 (GeeksforGeeks)](https://www.geeksforgeeks.org/data-analysis/data-analysis-tutorial/)
     - [Learning material 2 (AWS)](https://aws.amazon.com/what-is/data-analytics/)
     - [Learning material 3 (IBM)](https://www.ibm.com/docs/en/integration-bus/10.1.0?topic=messages-data-analysis)
 
-- [14October2025.ipynb](/PlacementTraining-DataAnalytics/14October2025.ipynb)
+- [14October2025.ipynb](14October2025.ipynb)
     - [Datasets website 1](https://mavenanalytics.io/data-playground)
     - [Datasets website 2](https://www.kaggle.com/datasets)
 
