@@ -19,7 +19,7 @@ This repository documents my Placement Training journey focused on Data Analytic
     - [Learning material 3 (IBM)](https://www.ibm.com/docs/en/integration-bus/10.1.0?topic=messages-data-analysis)
 
 - [14October2025.ipynb](14October2025.ipynb)
-    - [Datasets website 1](https://mavenanalytics.io/data-playground)
-    - [Datasets website 2](https://www.kaggle.com/datasets)
+    - [Datasets website 1 (Maven)](https://mavenanalytics.io/data-playground)
+    - [Datasets website 2 (Kaggle)](https://www.kaggle.com/datasets)
 
 Feel free to explore and use these resources for your own learning!
